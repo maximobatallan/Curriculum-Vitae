@@ -172,8 +172,9 @@ txt3('Model deployment', '`streamlit`, `Heroku`, `AWS`, `Azure`')
 
 #####################
 st.markdown('''
-## Social Media
+## Social Media y Contacto
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/maximo-batallan-9a2508103/')
 txt2('GitHub', 'https://github.com/maximobatallan')
+txt2('Mail', 'maximobatallan@gmail.com')
 

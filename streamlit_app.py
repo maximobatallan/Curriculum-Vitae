@@ -27,24 +27,25 @@ st.info('''
 st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
 
 st.markdown("""
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #212529;">
   <a class="navbar-brand" href="https://www.linkedin.com/in/maximo-batallan-9a2508103/" target="_blank">Maximo Batallan</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
+  
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" href="#batallan-m-ximo">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#education">Educación</a>
+        <a class="nav-link" href="#educaci-n">Educación</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#experiencia-laboral">Experiencia Laboral</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Proyectos">Herramientas Informaticas</a>
+        <a class="nav-link" href="#proyectos">Herramientas Informaticas</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Redes</a>

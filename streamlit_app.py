@@ -12,7 +12,7 @@ st.write('''
 ''')
 
 image = Image.open('foto cv.jpg')
-st.image(image, width=150)
+st.image(image)
 
 st.markdown('## Acerca de mí', unsafe_allow_html=True)
 st.info('''
@@ -136,7 +136,7 @@ st.markdown('''
 ''')
 
 txt('**Administrativo Contable**, Club Inn, Bs. As., Argentina',
-'2016-2018')
+'2014-2016')
 st.markdown('''
 - Preparación de reportes mensuales. `posición contable ante los impuestos, Impuestos al valor agregado, Ingresos Brutos.` 
 - Encargado de cuentas a pagar..
@@ -162,7 +162,7 @@ st.markdown('''
 ## Skills
 ''')
 txt3('Programming', '`Python`')
-txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
+txt3('Data processing', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `altair`')
 txt3('Machine Learning', '`scikit-learn`')
 txt3('GUI Projects', '`Tkinter`')
